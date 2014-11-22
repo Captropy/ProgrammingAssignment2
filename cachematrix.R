@@ -1,6 +1,6 @@
 ## The functions "makeCacheMatrix" and "cacheSolve" 
 
-## makeCacheMatrix takes a matrix object and allow you to get and set the value of its inverse.
+## makeCacheMatrix takes a matrix object and allows you to get and set the value of its inverse.
 
 makeCacheMatrix <- function(x = matrix()) {
   
